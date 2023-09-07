@@ -3,14 +3,22 @@
 
 ![Profile Picture](your-profile-picture-link.jpg)
 
-I'm Antonio Faonio, a passionate individual with a strong background in computer science and a deep love for technology and innovation. I'm dedicated to pushing the boundaries of what's possible and making a positive impact on the world through my work.
+I joined  <A HREF="www.eurecom.fr">EURECOM</A> as I am an maître de conférences at EURECOM since July 2020.
+As far as I understood, MdC in France is kinda an assistant with tenure professor/associate professor, depending who I need to talk with.
+I was a postdoctoral researcher at IMDEA Software Institute, where I was super lucky to work with Dario Fiore.
+I was a postdoctoral researcher at at Aarhus University, where I was super lucky to work with Jesper Buus Nielsen.
+I got a Ph.D. in Computer Science at "Sapienza" Univ. of Rome. where I was super lucky to have as advisor Giuseppe Ateniese.
+
+I am a cryptographer, I work mostly on public-key stuff with some incursion to information-theoretic stuff (but I wish I knew more about that).
+My line of work revolves around questions on non-malleability, leakage resilience, zero-knowledge, re-randomizability, etc.
+I am not gonna have add the cloud picture with keywords (see example here) cause I thought it was lame and cause Gen-Z students won't understand it.
+
 
 ## About Me
 
-- **Location:** [City, Country]
-- **Email:** [Your Email Address]
+- **Location:** Antibes, Cote D'Azur (yeah, come visit me from May to September and you get a free fancy French Riviera Holiday for free)
+- **Email:** antonio.faonio[You don't need ChatGPT to know what to put here]eurecom.fr
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- **GitHub:** [GitHub Profile](https://github.com/your-github-profile)
 
 ## Education
 
