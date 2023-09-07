@@ -1,7 +1,6 @@
-
 # Antonio Faonio
 
-![Profile Picture](myself.png)
+![Profile Picture](myself.png){ width: 200px;}
 
 I am an Maître de Conférences at <A HREF="www.eurecom.fr">EURECOM</A> since July 2020.
 As far as I understood, MdC in France is kinda an assistant with tenure professor/associate professor, depending who I need to talk with.
@@ -11,7 +10,8 @@ I got a Ph.D. in Computer Science at "Sapienza" Univ. of Rome. where I was super
 
 I am a cryptographer, I work mostly on public-key stuff with some incursion to information-theoretic stuff (but I wish I knew more about that).
 My line of work revolves around questions on non-malleability, leakage resilience, zero-knowledge, re-randomizability, etc.
-I am not gonna have add the cloud picture with keywords (see example here) cause I thought it was lame and cause Gen-Z students won't understand it.
+I am not gonna have add the cloud picture with keywords ([like this](cloud.png)) cause I thought it was lame and cause Gen-Z students won't understand it.
+
 
 
 ## About Me
