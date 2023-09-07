@@ -1,6 +1,6 @@
 # Antonio Faonio
 
-![Profile Picture](myself.png){ width: 200px;}
+	<img src="myself.png" alt="Myself" style="float:right;width:432px;height:648px;">
 
 I am an Maître de Conférences at <A HREF="www.eurecom.fr">EURECOM</A> since July 2020.
 As far as I understood, MdC in France is kinda an assistant with tenure professor/associate professor, depending who I need to talk with.
