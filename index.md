@@ -1,9 +1,9 @@
 
 # Antonio Faonio
 
-![Profile Picture](your-profile-picture-link.jpg)
+![Profile Picture](myself.png)
 
-I joined  <A HREF="www.eurecom.fr">EURECOM</A> as I am an maître de conférences at EURECOM since July 2020.
+I am an maître de conférences at <A HREF="www.eurecom.fr">EURECOM</A> since July 2020.
 As far as I understood, MdC in France is kinda an assistant with tenure professor/associate professor, depending who I need to talk with.
 I was a postdoctoral researcher at IMDEA Software Institute, where I was super lucky to work with Dario Fiore.
 I was a postdoctoral researcher at at Aarhus University, where I was super lucky to work with Jesper Buus Nielsen.
