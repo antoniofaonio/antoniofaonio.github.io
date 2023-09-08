@@ -18,9 +18,8 @@ I don't have a cloud picture with keywords ([like this](cloud.png)) cause I thin
 
 - **Location:** Antibes, Côte D'Azur (yeah, if you came visit me you'd get also free fancy French Riviera Holiday included)
 - **Email:** antonio.faonio[You don't need ChatGPT to know what to put here]eurecom.fr
-- [**ORCID**]()
-- [**DBLP**]()
-- [**Twitter**]()
+- [**ORCID**](https://orcid.org/0000-0002-7152-6478)
+- [**DBLP**](https://dblp.uni-trier.de/pid/138/9001.html)
 
 
 ## Research Group
@@ -32,11 +31,9 @@ I am always looking for talented, highly motivated students and postdocs interes
 
 ## Projects
 
-- [PROPOLIS]()
-	- With [Melek Onen]()
-- [PEPR TrustInCloud](link-to-project-2)
-- [PATTERN](link-to-project-3)
- - With [Melek Onen]()
+- [PROPOLIS](https://propolis-project.eu/). The project is funded in parts by the German BMBF (16KIS1393K) as part of the funding programme `Selbstbestimmt und sicher in der digitalen Welt' for the period of 6/2021-5/2024 as well as ANR. 
+- [TrustInCloud](link-to-project-2).
+- [PATTERN](link-to-project-3).
 
 
 ## Hobbies
