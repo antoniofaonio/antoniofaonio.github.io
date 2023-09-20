@@ -40,3 +40,5 @@ I am always looking for talented, highly motivated students and postdocs interes
 
 I am an okay runner and I always bring my running shoes and gear with me when on a conference. Here me on [Strava](https://www.strava.com/athletes/84242942). 
 
+Picture authored by [Tania](https://cerdineta.github.io/)
+
