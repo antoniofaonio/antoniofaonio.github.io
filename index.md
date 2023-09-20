@@ -1,6 +1,6 @@
 # Antonio Faonio
 
-<img src="myself.png" alt="Myself" style="float:right;width:432px;height:648px;">
+<img src="myself.png" alt="Myself" style="float:right;width:496px;height:701px;">
 
 I am a Maître de Conférences at <A HREF="www.eurecom.fr">EURECOM</A> since July 2020.
 As far as I understood, MdC in France is kinda an assistant professor with tenure or an associate professor, depending who I need to talk to.
@@ -38,5 +38,5 @@ I am always looking for talented, highly motivated students and postdocs interes
 
 ## Hobbies
 
-I am an okay runner and I always bring my running shoes and gear with me when on a conference. Here me on [Strava](). 
+I am an okay runner and I always bring my running shoes and gear with me when on a conference. Here me on [Strava](https://www.strava.com/athletes/84242942). 
 
