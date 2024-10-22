@@ -1,3 +1,6 @@
+old page, please go to [faonio.eurecom.io](https://faonio.eurecom.io/)
+
+
 # Antonio Faonio
 
 <img src="myself.png" alt="Myself" style="float:right;width:496px;height:701px;">
