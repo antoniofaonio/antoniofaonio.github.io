@@ -1,4 +1,4 @@
-old page, please go to [faonio.eurecom.io](https://faonio.eurecom.io/)
+this is an old page which I don't update, please go to [faonio.eurecom.io](https://faonio.eurecom.io/)
 
 
 # Antonio Faonio
